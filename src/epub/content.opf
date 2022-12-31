@@ -37,12 +37,13 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A satirical story of a young man who becomes a successful evangelist despite his drinking and womanizing.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Elmer Gantry isn’t suited to be a lawyer. So he becomes a preacher instead. Although he experiences a variety of failures, and even more successes, Gantry ultimately finds this new career path suits him very well indeed—despite his drinking and womanizing. Throughout his career Gantry progresses through the hierarchies of the Baptist and Methodist churches, dabbles in revivalism and “New Thought” and even experiments with politics—generally emerging from whatever scandal that threatens to bring him low relatively unscathed and ready to move onwards and upwards once again.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/sinclair-lewis"&gt;Sinclair Lewis&lt;/a&gt; published the satirical &lt;i&gt;Elmer Gantry&lt;/i&gt; in 1927 much to the dismay of the religious community. Banned in various communities, denounced from the pulpit in many more and leading to threats of violence, it nevertheless was a massive success and became the best selling novel of that year.&lt;/p&gt;
+			&lt;p&gt;One of the most savage satirical assaults against institutionalized religion—and its hypocrisy—in American literature, &lt;i&gt;Elmer Gantry&lt;/i&gt; continues to be one a window into a particularly important aspect of American history.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://gutenberg.net.au/ebooks03/0300851h.html</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.206302</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Elmer_Gantry</meta>
