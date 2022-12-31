@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-11.xhtml">
+		<ignore>
+			<code>t-064</code>
+			<reason>The question mark is part of the title</reason>
+		</ignore>
+	</file>
+	<file path="chapter-13.xhtml">
+		<ignore>
+			<code>t-042</code>
+			<reason>The question mark is part of the title</reason>
+		</ignore>
+	</file>
+	<file path="chapter-17.xhtml">
+		<ignore>
+			<code>t-017</code>
+			<reason>For Men Only is a title of a session and doesn't need preceding punctuation</reason>
+		</ignore>
+	</file>
+	<file path="chapter-20.xhtml">
+		<ignore>
+			<code>t-029</code>
+			<reason>The text is of hand-written notes so ignores the rules of punctuation</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
