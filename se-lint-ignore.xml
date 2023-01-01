@@ -18,4 +18,10 @@
 			<reason>The text is of hand-written notes so ignores the rules of punctuation</reason>
 		</ignore>
 	</file>
+	<file path="preface.xhtml">
+		<ignore>
+			<code>c-012</code>
+			<reason>Section is styled as centered text</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>

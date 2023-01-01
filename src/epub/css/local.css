@@ -92,3 +92,37 @@ blockquote ul{
 #chapter-20-10 blockquote{
 	font-style: italic;
 }
+
+/* Centered dedications */
+#preface{
+	text-align: center;
+}
+
+#preface > *{
+	display: inline-block;
+	margin: auto;
+	margin-top: 3em;
+	max-width: 80%;
+	width: 20em;
+}
+
+#preface footer{
+	margin-top: 1em;
+}
+
+@supports(display: flex){
+	#preface{
+		align-items: center;
+		box-sizing: border-box;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		min-height: calc(98vh - 3em);
+		padding-top: 3em;
+	}
+
+	#preface > *{
+		margin: 0;
+	}
+}
+/* End centered dedications */
