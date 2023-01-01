@@ -88,3 +88,8 @@ blockquote ul{
 	margin-top: .5em;
 	text-indent: 0;
 }
+
+#chapter-10-2 blockquote:first-of-type > p,
+#chapter-20-10 blockquote{
+	font-style: italic;
+}
