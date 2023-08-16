@@ -2,7 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-13.xhtml">
 		<ignore>
-			<code>t-042</code>
+			<code>y-026</code>
 			<reason>For Men Only is a title of a session and doesn't need preceding punctuation</reason>
 		</ignore>
 	</file>
