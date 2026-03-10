@@ -2,21 +2,25 @@
 <se-lint-ignore>
 	<file path="chapter-13.xhtml">
 		<ignore code="y-026">
+			<line>18</line>
 			<reason>For Men Only is a title of a session and doesn't need preceding punctuation</reason>
 		</ignore>
 	</file>
 	<file path="chapter-17.xhtml">
 		<ignore code="t-017">
+			<line>106</line>
 			<reason>The question mark is part of the title</reason>
 		</ignore>
 	</file>
 	<file path="chapter-20.xhtml">
 		<ignore code="t-029">
+			<line>150</line>
 			<reason>The text is of hand-written notes so ignores the rules of punctuation</reason>
 		</ignore>
 	</file>
 	<file path="preface.xhtml">
 		<ignore code="c-012">
+			<line>9</line>
 			<reason>Section is styled as centered text</reason>
 		</ignore>
 	</file>
